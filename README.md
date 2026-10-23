@@ -1,0 +1,16 @@
+QuickCalc
+
+A lightweight, minimal calculator for macOS.
+QuickCalc is a free, easy-to-use calculator designed for quick everyday calculations.
+
+Installation
+
+Download the latest .dmg file from [Releases](https://github.com/SEVGroup/QuickCalc-Releases).
+Open the downloaded file.
+Drag QuickCalc into your Applications folder.
+
+Feedback
+
+Found a bug or have a suggestion? Feel free to open an issue.
+
+<img width="532" height="628" alt="Снимок экрана — 2026-10-24 в 00 30 40" src="https://github.com/user-attachments/assets/083e1582-51e4-41af-a983-60206fbbb74f" />
